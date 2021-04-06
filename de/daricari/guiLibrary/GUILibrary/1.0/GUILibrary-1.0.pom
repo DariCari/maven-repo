@@ -36,11 +36,6 @@
             <version>1.16.4-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
     </dependency>
-    <dependency>
-   		 <groupId>de.daricari.languageapi</groupId>
-    	 <artifactId>languageapi</artifactId>
-    	 <version>1.0</version>
-  	</dependency>
   		
   </dependencies>
 </project>
