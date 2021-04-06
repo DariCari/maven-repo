@@ -3,7 +3,7 @@
   <groupId>de.daricari.guiLibrary</groupId>
   <artifactId>GUILibrary</artifactId>
   <version>1.0</version>
-  <name>GUI</name>
+  <name>GUILibrary</name>
   <build>
      <plugins>
         <plugin>
@@ -22,10 +22,6 @@
 		<repository>
    			 <id>dmulloy2-repo</id>
     		<url>https://repo.dmulloy2.net/repository/public/</url>
-  		</repository>
-  		<repository>
-   			 <id>maven-repo</id>
-    		<url>https://raw.github.com/DariCari/maven-repo/master</url>
   		</repository>
   </repositories>
   
