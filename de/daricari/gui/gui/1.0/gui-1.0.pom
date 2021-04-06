@@ -39,8 +39,7 @@
     <dependency>
    		 <groupId>de.daricari.languageapi</groupId>
     	 <artifactId>languageapi</artifactId>
-    	 <version>0.2.0-SNAPSHOT</version>
-    	 <scope>provided</scope>
+    	 <version>1.0</version>
   	</dependency>
   		
   </dependencies>
