@@ -37,7 +37,7 @@
                    </excludes>
                  </filter>
                </filters>
-               <createDependencyReducedPom>false</createDependencyReducedPom>
+               <createDependencyReducedPom>true</createDependencyReducedPom>
                <shadedArtifactAttached>true</shadedArtifactAttached>
              </configuration>
            </execution>
@@ -82,7 +82,7 @@
     <dependency>
             <groupId>de.daricari.gui</groupId>
             <artifactId>gui</artifactId>
-            <version>1.0</version>
+            <version>1.0.1</version>
     </dependency>
   		
   </dependencies>
