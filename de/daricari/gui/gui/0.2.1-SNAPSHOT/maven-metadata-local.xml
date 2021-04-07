@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>de.daricari.gui</groupId>
+  <artifactId>gui</artifactId>
+  <version>0.2.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20210407110343</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.2.1-SNAPSHOT</value>
+        <updated>20210407110343</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.2.1-SNAPSHOT</value>
+        <updated>20210407110343</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
